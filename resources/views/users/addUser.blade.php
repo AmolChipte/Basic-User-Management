@@ -20,8 +20,8 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2>Starter Section</h2>
-        <div><span>Check Our</span> <span class="description-title">Starter Section</span></div>
+        <h2>Welcome</h2>
+        <div><span>Add</span> <span class="description-title">New User</span></div>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up">
