@@ -88,7 +88,20 @@ Then visit: [http://localhost:8000](http://localhost:8000)
 
 ## Screenshots
 
-_(Add images of user list, form, and update form if needed)_
+- HOME
+  ![home](https://github.com/user-attachments/assets/fc75d72e-f85e-4016-8f6b-46ad10d3d23b)
+  
+- LIST OF USERS
+  ![list](https://github.com/user-attachments/assets/359fd086-8fda-4541-8e5b-5e8476aa5751)
+
+- ADD USER
+  ![add](https://github.com/user-attachments/assets/cda6ba14-174e-4118-8cae-a849f717efcc)
+
+- UPDATE USER
+  ![update](https://github.com/user-attachments/assets/dcf35de9-8645-4ca7-938b-6dc3ac314250)
+
+- DELETE USER
+  ![delete](https://github.com/user-attachments/assets/9ff4f815-6c5b-443a-965d-eb37a0139179)
 
 ---
 
